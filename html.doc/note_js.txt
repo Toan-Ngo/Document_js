@@ -1,0 +1,15 @@
+document.getElementById("id").innerHTML : thay đổi nội dung HTML của phần tử đó
+document.getElementById("id").innerText : thay đổi văn bản bên trong phần tử đó
+document.write : sau khi sử dụng sẽ xóa toàn bộ nội dung trang HTML hiện có
+alert : để hiện thị cảnh báo dữ liệu
+console.log() : trong trình duyệt để hiện thị dữ liệu 
+window.print() : In nội dung của cửa sổ hiện tại
+let : cho phép khai báo 1 biến khối
+var : khai báo 1 biến
+const : khai báo hằng số
+if : câu lệnh điều kiện
+switch : rẽ nhánh
+for : vòng lặp có đầu cuối
+function : khai báo 1 hàm
+return : thoát khỏi 1 chức năng
+try : thực hiện xử lý lỗi cho 1 khối câu lệnh
