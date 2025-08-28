@@ -1,0 +1,16 @@
+// Chuỗi số kiểu string
+(tên biến).length : độ dài chuỗi số
+(tên biến).charAt(vị trí) : trích xuất phần tử ở vị trí nào đó
+(tên biến).charCodeAt(vị trí) : trả về mã ở vị trí cần tìm
+(tên biến).at(vị trí) : lấy phần tử ở vị trí chỉ định
+(tên biến).concat(" ",tên biến) : nối 2 hoặc nhiều chuỗi số
+	// phương pháp trích xuất 1 phần tử của chuỗi số
+slide(start, end)
+substring(start, end)
+substr(start,length)
+	// end
+	// chuyển đổi hoa thường
+.toUppperCase() : chữ hoa
+.toLowerCase() : chữ thường
+	// end
+
