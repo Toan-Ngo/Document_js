@@ -13,5 +13,35 @@ substr(start,length)
 .toUppperCase() : chữ hoa
 .toLowerCase() : chữ thường
 	//end
-
+//--------------------------------------//
+UPDATE
+onchange
+onclick
+onmouseover
+onmouseout
+onkeydown
+onload
+các kiểu dự liệu  hiện có :
+string 
+number
+bigint
+boolen
+undefined
+null
+symbol
+object
+///////////////////
+1.typeof: trả về kiểu dữ liệu của phần tử được chỉ định
+2.toString: khi sử dụng lên 1 mảng sẽ trả về phần tử của mảng dưới dạng ngăn cách bởi dấu phẩy
+	  khi sử dụng vào ngày tháng sẽ trả về chuỗi mà con người có thể được được
+	  khi sử dụng nó lên số sẽ trả về số đó dưới dạng chuỗi 
+	  khi sử dụng vào 1 đối tượng sẽ trả về [dối tượng dối tượng]
+3.length():trả về độ dài của 2 chuỗi
+TÌM KIẾM TRONG CHUỖI
+-IndexOf:trả về vị trí chữ cái đầu tiên của từ xuất hiện trong chuỗi xuất hiện lần đầu tiên
+-LastIndexOf:trả về vị trí chữ cái đầu tiên của từ xuất hiện trong chuỗi xuất hiện lần cuối cùng
+=>cả 2 tham số đêu chấp nhận vị trí thứ 2 cho vị trí bắt đầu tìm kiếm (vd:text.IndexOf("locate",15))
+-search:tìm kiếm 1 chuỗi (hoặc 1 biểu thức chính quy)và trả về vị trí khớp 
+-match:trả về 1 mảng chứa kết quả của việc so khớp 1 chuỗi với 1 chuỗi khác(hoặc biểu thức chính quy)
+ 
 
