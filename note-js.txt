@@ -13,4 +13,10 @@ substr(start,length)
 .toUppperCase() : chữ hoa
 .toLowerCase() : chữ thường
 	// end
+	//xóa khoảng trắng
+.trim() : đầu cuối;
+.trimEnd() : xóa cuối
+	//end
+.padStart(chỉ số, "kí tự chèn") : chèn chỉ số vào đầu tới khi bằng chỉ số
 
+ 
