@@ -18,5 +18,6 @@ substr(start,length)
 .trimEnd() : xóa cuối
 	//end
 .padStart(chỉ số, "kí tự chèn") : chèn chỉ số vào đầu tới khi bằng chỉ số
-
+.repeat(chỉ số) : in ra số lần bản sao
+.split(" kí tự muốn ngăn cách") chuyển chuỗi thành mảng
  
