@@ -12,5 +12,5 @@ substr(start,length)
 	// chuyển đổi hoa thường
 .toUppperCase() : chữ hoa
 .toLowerCase() : chữ thường
-	// end
+	
 
